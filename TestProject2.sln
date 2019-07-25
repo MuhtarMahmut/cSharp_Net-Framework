@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium_With_CSharp", "Selenium_With_CSharp\Selenium_With_CSharp.csproj", "{B87B7C2C-BB3D-4356-B5E5-73ADBBDEEACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B87B7C2C-BB3D-4356-B5E5-73ADBBDEEACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87B7C2C-BB3D-4356-B5E5-73ADBBDEEACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87B7C2C-BB3D-4356-B5E5-73ADBBDEEACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87B7C2C-BB3D-4356-B5E5-73ADBBDEEACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

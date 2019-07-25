@@ -1,0 +1,13 @@
+/Users/maihemutimuhetaerjiang/RiderProjects/TestProject2/TestProject2/bin/Debug/TestProject2.dll
+/Users/maihemutimuhetaerjiang/RiderProjects/TestProject2/TestProject2/bin/Debug/TestProject2.pdb
+/Users/maihemutimuhetaerjiang/RiderProjects/TestProject2/TestProject2/bin/Debug/nunit.framework.dll
+/Users/maihemutimuhetaerjiang/RiderProjects/TestProject2/TestProject2/bin/Debug/nunit.framework.xml
+/Users/maihemutimuhetaerjiang/RiderProjects/TestProject2/TestProject2/obj/Debug/TestProject2.csprojAssemblyReference.cache
+/Users/maihemutimuhetaerjiang/RiderProjects/TestProject2/TestProject2/obj/Debug/TestProject2.csproj.CoreCompileInputs.cache
+/Users/maihemutimuhetaerjiang/RiderProjects/TestProject2/TestProject2/obj/Debug/TestProject2.csproj.CopyComplete
+/Users/maihemutimuhetaerjiang/RiderProjects/TestProject2/TestProject2/obj/Debug/TestProject2.dll
+/Users/maihemutimuhetaerjiang/RiderProjects/TestProject2/TestProject2/obj/Debug/TestProject2.pdb
+/Users/maihemutimuhetaerjiang/RiderProjects/TestProject2/TestProject2/bin/Debug/WebDriver.dll
+/Users/maihemutimuhetaerjiang/RiderProjects/TestProject2/TestProject2/bin/Debug/WebDriver.xml
+/Users/maihemutimuhetaerjiang/RiderProjects/TestProject2/TestProject2/bin/Debug/WebDriver.Support.dll
+/Users/maihemutimuhetaerjiang/RiderProjects/TestProject2/TestProject2/bin/Debug/WebDriver.Support.xml

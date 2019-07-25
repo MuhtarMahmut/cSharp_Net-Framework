@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="529ecbad-9287-4b09-bfab-7358e2877a73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestProject2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestProject2/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestProject2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Captures/ThisISATest_724201960607PM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Captures/ThisISATest_724201964414PM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Captures/ThisISATest_7252019120711PM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Captures/ThisISATest_7252019121248PM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Captures/ThisISATest_7252019121409PM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Captures/ThisISATest_7252019121443PM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Captures/ThisISATest_7252019121509PM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Captures/ThisISATest_7252019121601PM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Captures/ThisISATest_7252019121626PM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Captures/ThisISATest_7252019121653PM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Captures/ThisISATest_7252019121726PM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Captures/ThisISATest_7252019122612PM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Pages/AllEleemnts.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Pages/FaceBook.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Selenium_With_CSharp.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Test/Tests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/TestData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Utilities/Driver.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Utilities/Library.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Utilities/Properties.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/Utilities/TestBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/ExcelDataReader.DataSet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/ExcelDataReader.DataSet.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/ExcelDataReader.DataSet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/ExcelDataReader.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/ExcelDataReader.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/ExcelDataReader.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/Microsoft.Office.Interop.Excel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/Selenium_With_CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/Selenium_With_CSharp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/WebDriver.Support.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/WebDriver.Support.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/WebDriver.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/WebDriver.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/bin/Debug/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/obj/Debug/Selenium_With_CSharp.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/obj/Debug/Selenium_With_CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/obj/Debug/Selenium_With_CSharp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/obj/Debug/Selenium_With_CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/obj/Debug/Selenium_With_CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/obj/Debug/Selenium_With_CSharp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/obj/Debug/TestProject2.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/obj/Debug/TestProject2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/obj/Debug/TestProject2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/obj/Debug/TestProject2.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/obj/Debug/TestProject2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/obj/Debug/TestProject2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_With_CSharp/packages.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject2.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.3.6.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.3.6.0/ExcelDataReader.3.6.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.3.6.0/lib/net20/ExcelDataReader.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.3.6.0/lib/net20/ExcelDataReader.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.3.6.0/lib/net20/ExcelDataReader.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.3.6.0/lib/net45/ExcelDataReader.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.3.6.0/lib/net45/ExcelDataReader.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.3.6.0/lib/net45/ExcelDataReader.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.3.6.0/lib/netstandard1.3/ExcelDataReader.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.3.6.0/lib/netstandard1.3/ExcelDataReader.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.3.6.0/lib/netstandard1.3/ExcelDataReader.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.3.6.0/lib/netstandard2.0/ExcelDataReader.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.3.6.0/lib/netstandard2.0/ExcelDataReader.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.3.6.0/lib/netstandard2.0/ExcelDataReader.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.DataSet.3.6.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.DataSet.3.6.0/ExcelDataReader.DataSet.3.6.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.DataSet.3.6.0/lib/net20/ExcelDataReader.DataSet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.DataSet.3.6.0/lib/net20/ExcelDataReader.DataSet.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.DataSet.3.6.0/lib/net20/ExcelDataReader.DataSet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.DataSet.3.6.0/lib/net35/ExcelDataReader.DataSet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.DataSet.3.6.0/lib/net35/ExcelDataReader.DataSet.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.DataSet.3.6.0/lib/net35/ExcelDataReader.DataSet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.DataSet.3.6.0/lib/netstandard2.0/ExcelDataReader.DataSet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.DataSet.3.6.0/lib/netstandard2.0/ExcelDataReader.DataSet.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ExcelDataReader.DataSet.3.6.0/lib/netstandard2.0/ExcelDataReader.DataSet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Gmg.MicrosoftOfficeInteropExcel.1.0.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Gmg.MicrosoftOfficeInteropExcel.1.0.0/Gmg.MicrosoftOfficeInteropExcel.1.0.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Gmg.MicrosoftOfficeInteropExcel.1.0.0/lib/Microsoft.Office.Interop.Excel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.Office.Interop.Excel.15.0.4795.1000/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.Office.Interop.Excel.15.0.4795.1000/Microsoft.Office.Interop.Excel.15.0.4795.1000.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.Office.Interop.Excel.15.0.4795.1000/lib/net20/Microsoft.Office.Interop.Excel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/CHANGES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/NOTICES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/NUnit.3.5.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/NUnit.System.Linq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.3.141.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.3.141.0/Selenium.Support.3.141.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.3.141.0/lib/net35/WebDriver.Support.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.3.141.0/lib/net35/WebDriver.Support.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.3.141.0/lib/net40/WebDriver.Support.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.3.141.0/lib/net40/WebDriver.Support.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.3.141.0/lib/net45/WebDriver.Support.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.3.141.0/lib/net45/WebDriver.Support.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.3.141.0/lib/netstandard2.0/WebDriver.Support.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.3.141.0/lib/netstandard2.0/WebDriver.Support.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.3.141.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.3.141.0/Selenium.WebDriver.3.141.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.3.141.0/lib/net35/WebDriver.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.3.141.0/lib/net35/WebDriver.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.3.141.0/lib/net40/WebDriver.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.3.141.0/lib/net40/WebDriver.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.3.141.0/lib/net45/WebDriver.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.3.141.0/lib/net45/WebDriver.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.3.141.0/lib/netstandard2.0/WebDriver.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.3.141.0/lib/netstandard2.0/WebDriver.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.75.0.3770.140/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.75.0.3770.140/Selenium.WebDriver.ChromeDriver.75.0.3770.140.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.75.0.3770.140/build/Selenium.WebDriver.ChromeDriver.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.75.0.3770.140/driver/linux64/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.75.0.3770.140/driver/mac64/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.75.0.3770.140/driver/win32/chromedriver.exe" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Selenium_With_CSharp/Selenium_With_CSharp.csproj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestProject2.sln">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Muhtar" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Selenium_With_CSharp/Test/Tests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Selenium_With_CSharp/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Selenium_With_CSharp/Pages/FaceBook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/5d/1111cc1c/ITest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Selenium_With_CSharp/Utilities/Properties.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Selenium_With_CSharp/Utilities/TestBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Selenium_With_CSharp/Utilities/Driver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Selenium_With_CSharp/Utilities/Library.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Selenium_With_CSharp/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/a1/ea215b18/TestCaseResult.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19027CC8-5014-4409-9501-B87290061165/18/9dd8487e/ITakesScreenshot.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/49/762d04e1/TestMethod.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19027CC8-5014-4409-9501-B87290061165/7d/21f272a6/WebDriverWait.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0700D2C0-08D3-46AD-A2C5-3AB7F2564B70/47/d1092e50/ImageFormat.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19027CC8-5014-4409-9501-B87290061165/28/04810fde/IFindsByXPath.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2BFEEC6-715C-4FDF-A897-2C2780C54EBA/83/0b189af4/TimeSpan.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A861AD7F-E5EF-4AEB-8F2E-DA4D9518ABA6/09/8668a4eb/FindsByAllAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19027CC8-5014-4409-9501-B87290061165/ef/8f14393b/ITimeouts.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19027CC8-5014-4409-9501-B87290061165/65/79eab5e5/IFindsById.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A861AD7F-E5EF-4AEB-8F2E-DA4D9518ABA6/d7/dda8280d/How.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/a4/d4df7686/TestResult.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestProject2/Tests.cs" />
+        <option value="$PROJECT_DIR$/Selenium_With_CSharp/TestData.properties" />
+        <option value="$PROJECT_DIR$/Selenium_With_CSharp/packages.config" />
+        <option value="$PROJECT_DIR$/Selenium_With_CSharp/Utilities/ConfigurationReader.cs" />
+        <option value="$PROJECT_DIR$/Selenium_With_CSharp/Selenium_With_CSharp.csproj" />
+        <option value="$PROJECT_DIR$/TestProject2.sln" />
+        <option value="$PROJECT_DIR$/Selenium_With_CSharp/Utilities/ConfigReader.cs" />
+        <option value="$PROJECT_DIR$/Selenium_With_CSharp/Utilities/WebDriver.cs" />
+        <option value="$PROJECT_DIR$/Selenium_With_CSharp/Utilities/FileReader.cs" />
+        <option value="$PROJECT_DIR$/Selenium_With_CSharp/Utilities/Driver.cs" />
+        <option value="$PROJECT_DIR$/Selenium_With_CSharp/Utilities/Library.cs" />
+        <option value="$PROJECT_DIR$/Selenium_With_CSharp/Pages/Eleemnt.cs" />
+        <option value="$PROJECT_DIR$/Selenium_With_CSharp/Pages/AllEleemnts.cs" />
+        <option value="$PROJECT_DIR$/Selenium_With_CSharp/Pages/FaceBook.cs" />
+        <option value="$PROJECT_DIR$/Selenium_With_CSharp/Utilities/TestBase.cs" />
+        <option value="$PROJECT_DIR$/Selenium_With_CSharp/Utilities/Properties.cs" />
+        <option value="$PROJECT_DIR$/Selenium_With_CSharp/Test/Tests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.TestProject2/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="954" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TestProject2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="529ecbad-9287-4b09-bfab-7358e2877a73" name="Default Changelist" comment="" />
+      <created>1563995470016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563995470016</updated>
+      <workItem from="1563995471128" duration="7423000" />
+      <workItem from="1564004941386" duration="8358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15781000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="954" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16849817" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32959184" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" visible="true" weight="0.32134572" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32970297" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Selenium_With_CSharp/Tests.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19027CC8-5014-4409-9501-B87290061165/65/79eab5e5/IFindsById.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A861AD7F-E5EF-4AEB-8F2E-DA4D9518ABA6/09/8668a4eb/FindsByAllAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19027CC8-5014-4409-9501-B87290061165/28/04810fde/IFindsByXPath.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A861AD7F-E5EF-4AEB-8F2E-DA4D9518ABA6/d7/dda8280d/How.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_With_CSharp/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0700D2C0-08D3-46AD-A2C5-3AB7F2564B70/47/d1092e50/ImageFormat.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-668">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19027CC8-5014-4409-9501-B87290061165/18/9dd8487e/ITakesScreenshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/5d/1111cc1c/ITest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/a4/d4df7686/TestResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/a1/ea215b18/TestCaseResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_With_CSharp/Utilities/WebDriver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_With_CSharp/TestData.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/49/762d04e1/TestMethod.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_With_CSharp/Utilities/FileReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_With_CSharp/Utilities/Library.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="47" column="12" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+          <folding>
+            <marker date="1564073047172" expanded="true" signature="6:266" ph="..." />
+            <marker date="1564073047172" expanded="true" signature="301:1513" ph="{...}" />
+            <marker date="1564073047172" expanded="true" signature="340:1511" ph="{...}" />
+            <marker date="1564073047172" expanded="true" signature="396:461" ph="{...}" />
+            <marker date="1564073047172" expanded="true" signature="523:1098" ph="{...}" />
+            <marker date="1564073047172" expanded="true" signature="1172:1472" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_With_CSharp/Pages/AllEleemnts.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19027CC8-5014-4409-9501-B87290061165/7d/21f272a6/WebDriverWait.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="26" column="46" lean-forward="true" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_With_CSharp/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1563996660943" expanded="true" signature="6:62" ph="..." />
+            <marker date="1563996660943" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1563996660943" expanded="true" signature="578:788" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1563996660943" expanded="true" signature="963:1290" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_With_CSharp/Test/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+          <folding>
+            <marker date="1564074789723" expanded="true" signature="7:53" ph="..." />
+            <marker date="1564074789723" expanded="true" signature="77:411" ph="{...}" />
+            <marker date="1564074789723" expanded="true" signature="131:409" ph="{...}" />
+            <marker date="1564074789723" expanded="true" signature="257:403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19027CC8-5014-4409-9501-B87290061165/ef/8f14393b/ITimeouts.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2BFEEC6-715C-4FDF-A897-2C2780C54EBA/83/0b189af4/TimeSpan.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="105" column="15" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="15" />
+          <folding>
+            <marker date="1564074128677" expanded="true" signature="0:299" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1564074128677" expanded="false" signature="307:389" ph="..." />
+            <marker date="1564074128677" expanded="true" signature="407:14476" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="545:14474" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="1927:1966" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="2024:2103" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="2171:2244" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="2330:2726" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="2749:2815" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="2765:2809" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="2836:2926" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="2852:2920" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="2948:3043" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="2964:3037" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="3072:3163" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="3088:3157" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="3187:3280" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="3203:3274" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="3304:3396" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="3320:3390" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="3425:3523" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="3441:3517" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="3553:3651" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="3569:3645" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="3688:3946" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="3704:3940" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="3978:4076" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="3994:4070" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="4108:4191" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="4124:4185" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="4229:4528" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="4585:4693" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="4733:5062" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="5104:5241" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="5292:5353" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="5385:5734" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="5781:5899" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="5937:5989" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="6046:6095" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="6134:6206" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="6258:6318" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="6381:6865" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="6924:6978" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="7032:7090" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="7120:7360" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="7414:7471" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="7514:7813" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="7863:7909" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="7981:8304" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="8348:8442" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="8522:8612" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="8731:8876" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="8998:9131" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="9279:9472" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="9623:9804" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="9868:9977" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="10077:10182" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="10327:10487" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="10635:10783" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="10957:11165" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="11342:11538" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="11577:11670" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="11713:11799" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="11874:12066" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="12117:12353" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="12418:12460" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="12511:12539" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="12604:12641" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="12703:12752" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="12814:12863" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="12924:12972" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="13034:13083" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="13144:13192" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="13254:13303" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="13377:13828" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="13891:13955" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="13999:14031" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="14105:14182" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="14218:14470" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="14234:14464" ph="{...}" />
+            <marker date="1564074128677" expanded="true" signature="14286:14419" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_With_CSharp/Utilities/TestBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+          <folding>
+            <marker date="1564074434791" expanded="true" signature="6:251" ph="..." />
+            <marker date="1564074434791" expanded="true" signature="285:1294" ph="{...}" />
+            <marker date="1564074434791" expanded="true" signature="313:1292" ph="{...}" />
+            <marker date="1564074434791" expanded="true" signature="646:975" ph="{...}" />
+            <marker date="1564074434791" expanded="true" signature="1051:1125" ph="{...}" />
+            <marker date="1564074434791" expanded="true" signature="1181:1259" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_With_CSharp/Utilities/Driver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-158">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding>
+            <marker date="1564072713751" expanded="true" signature="6:181" ph="..." />
+            <marker date="1564072713751" expanded="true" signature="215:1806" ph="{...}" />
+            <marker date="1564072713751" expanded="true" signature="237:306" ph="{...}" />
+            <marker date="1564072713751" expanded="true" signature="346:1804" ph="{...}" />
+            <marker date="1564072713751" expanded="true" signature="938:1789" ph="{...}" />
+            <marker date="1564072713751" expanded="true" signature="978:1751" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_With_CSharp/Utilities/Properties.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1564074677732" expanded="true" signature="6:66" ph="..." />
+            <marker date="1564074677732" expanded="true" signature="100:1549" ph="{...}" />
+            <marker date="1564074677732" expanded="true" signature="129:1542" ph="{...}" />
+            <marker date="1564074677732" expanded="true" signature="243:277" ph="{...}" />
+            <marker date="1564074677732" expanded="true" signature="318:393" ph="{...}" />
+            <marker date="1564074677732" expanded="true" signature="442:677" ph="{...}" />
+            <marker date="1564074677732" expanded="true" signature="721:1535" ph="{...}" />
+            <marker date="1564074677732" expanded="true" signature="794:1529" ph="{...}" />
+            <marker date="1564074677732" expanded="true" signature="1020:1519" ph="{...}" />
+            <marker date="1564074677732" expanded="true" signature="1349:1451" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_With_CSharp/Pages/FaceBook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <marker date="1564073814055" expanded="false" signature="6:165" ph="..." />
+            <marker date="1564073814055" expanded="true" signature="195:558" ph="{...}" />
+            <marker date="1564073814055" expanded="true" signature="234:556" ph="{...}" />
+            <marker date="1564073814055" expanded="true" signature="266:338" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium_With_CSharp/Selenium_With_CSharp.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestProject2.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
