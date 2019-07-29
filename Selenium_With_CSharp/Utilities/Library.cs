@@ -38,17 +38,7 @@ namespace TestProject2.Utilities
         }
         
         
-        public static String getProperties(String name)
-        {
-
-            String filepath =
-                "/Users/maihemutimuhetaerjiang/RiderProjects/Selenium_With_C_Sharp/Selenium_With_CSharp/TestData.properties";
-            
-            Properties config = new Properties(filepath);
-            
-            return config.get(name );
-
-        }
+        
         
      
         

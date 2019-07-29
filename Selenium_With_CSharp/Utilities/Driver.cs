@@ -9,7 +9,7 @@ using OpenQA.Selenium.Safari;
 namespace TestProject2.Utilities
 {
 
-    enum WebDriver
+  public enum WebDriver
     {
         chrome, firefox, IE, safari, edge, none
         
@@ -17,7 +17,7 @@ namespace TestProject2.Utilities
     
     public class Driver : TestBase
     {
-        private static String str = Library.getProperties("Browser").ToLower();
+        private static String str = ConfigurationReader.getProperties("Browser").ToLower();
 
         private static WebDriver myDriver = str.Equals("chrome")
             ? WebDriver.chrome
@@ -32,6 +32,7 @@ namespace TestProject2.Utilities
                             : WebDriver.none;
         public static IWebDriver getDriver()
         {
+            
             switch (myDriver)
             {
                 case WebDriver.chrome:

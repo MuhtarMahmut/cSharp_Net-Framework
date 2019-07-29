@@ -1,9 +1,6 @@
 using System;
 using NUnit.Framework;
-using NUnit.Framework.Interfaces;
-using NUnit.Framework.Internal;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.UI;
 using TestProject2.Pages;
@@ -29,9 +26,12 @@ namespace TestProject2.Utilities
         {
             driver = Driver.getDriver();
             driver.Manage().Window.Maximize();
-            driver.Url = Library.getProperties("WebSite");
+            driver.Url = ConfigurationReader.getProperties("WebSite");
+            
             driver.Manage().Timeouts().ImplicitWait=timeout;
+            
             act=new Actions(driver);
+            
             wait=new WebDriverWait(driver,timeout);
            
         }
